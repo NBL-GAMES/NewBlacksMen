@@ -28,6 +28,17 @@ TextureImporter:
     21300046: CoragemParado2(1)_23
     21300048: CoragemParado2(1)_24
     21300050: CoragemParado2(1)_25
+    21300052: CoragemParado2(1)_26
+    21300054: CoragemParado2(1)_27
+    21300056: CoragemParado2(1)_28
+    21300058: CoragemParado2(1)_29
+    21300060: CoragemParado2(1)_30
+    21300062: CoragemParado2(1)_31
+    21300064: CoragemParado2(1)_32
+    21300066: CoragemParado2(1)_33
+    21300068: CoragemParado2(1)_34
+    21300070: CoragemParado2(1)_35
+    21300072: CoragemParado2(1)_36
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -66,7 +77,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -198,9 +209,9 @@ TextureImporter:
       name: CoragemParado2(1)_5
       rect:
         serializedVersion: 2
-        x: 494
+        x: 460
         y: 916
-        width: 166
+        width: 200
         height: 154
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -212,9 +223,9 @@ TextureImporter:
       name: CoragemParado2(1)_6
       rect:
         serializedVersion: 2
-        x: 685
+        x: 673
         y: 915
-        width: 165
+        width: 177
         height: 153
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -224,6 +235,20 @@ TextureImporter:
       tessellationDetail: 0
     - serializedVersion: 2
       name: CoragemParado2(1)_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1064
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_8
       rect:
         serializedVersion: 2
         x: 863
@@ -237,7 +262,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_8
+      name: CoragemParado2(1)_9
       rect:
         serializedVersion: 2
         x: 11
@@ -251,7 +276,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_9
+      name: CoragemParado2(1)_10
       rect:
         serializedVersion: 2
         x: 38
@@ -265,27 +290,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_10
+      name: CoragemParado2(1)_11
       rect:
         serializedVersion: 2
         x: 54
         y: 1002
         width: 14
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: CoragemParado2(1)_11
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 1002
-        width: 12
-        height: 10
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +307,10 @@ TextureImporter:
       name: CoragemParado2(1)_12
       rect:
         serializedVersion: 2
-        x: 90
-        y: 1000
-        width: 12
-        height: 12
+        x: 71
+        y: 998
+        width: 15
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +321,10 @@ TextureImporter:
       name: CoragemParado2(1)_13
       rect:
         serializedVersion: 2
-        x: 106
-        y: 1002
-        width: 41
-        height: 12
+        x: 88
+        y: 1000
+        width: 14
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -322,6 +333,20 @@ TextureImporter:
       tessellationDetail: 0
     - serializedVersion: 2
       name: CoragemParado2(1)_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 997
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_15
       rect:
         serializedVersion: 2
         x: 152
@@ -335,12 +360,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_15
+      name: CoragemParado2(1)_16
       rect:
         serializedVersion: 2
         x: 0
         y: 953
-        width: 482
+        width: 488
         height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -349,7 +374,49 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_16
+      name: CoragemParado2(1)_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 963
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_18
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 963
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 963
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_20
       rect:
         serializedVersion: 2
         x: 4
@@ -363,7 +430,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_17
+      name: CoragemParado2(1)_21
       rect:
         serializedVersion: 2
         x: 49
@@ -377,12 +444,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_18
+      name: CoragemParado2(1)_22
       rect:
         serializedVersion: 2
         x: 97
         y: 893
-        width: 43
+        width: 83
         height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -391,12 +458,82 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_19
+      name: CoragemParado2(1)_23
       rect:
         serializedVersion: 2
-        x: 494
+        x: 468
+        y: 928
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_24
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 916
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 908
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 488
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 848
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_28
+      rect:
+        serializedVersion: 2
+        x: 484
         y: 746
-        width: 166
+        width: 188
         height: 154
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -405,7 +542,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_20
+      name: CoragemParado2(1)_29
       rect:
         serializedVersion: 2
         x: 685
@@ -419,13 +556,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_21
+      name: CoragemParado2(1)_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 826
-        width: 482
-        height: 41
+        x: 484
+        y: 824
+        width: 4
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,12 +570,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_22
+      name: CoragemParado2(1)_31
       rect:
         serializedVersion: 2
         x: 0
         y: 768
-        width: 482
+        width: 488
         height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -447,13 +584,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_23
+      name: CoragemParado2(1)_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 792
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_33
       rect:
         serializedVersion: 2
         x: 0
-        y: 706
-        width: 482
-        height: 41
+        y: 704
+        width: 522
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -461,7 +612,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_24
+      name: CoragemParado2(1)_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 728
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_35
       rect:
         serializedVersion: 2
         x: 103
@@ -475,7 +640,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_25
+      name: CoragemParado2(1)_36
       rect:
         serializedVersion: 2
         x: 134
