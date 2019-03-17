@@ -39,6 +39,7 @@ TextureImporter:
     21300068: CoragemParado2(1)_34
     21300070: CoragemParado2(1)_35
     21300072: CoragemParado2(1)_36
+    21300074: CoragemParado2(1)_37
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -449,7 +450,7 @@ TextureImporter:
         serializedVersion: 2
         x: 97
         y: 893
-        width: 83
+        width: 43
         height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -559,6 +560,20 @@ TextureImporter:
       name: CoragemParado2(1)_30
       rect:
         serializedVersion: 2
+        x: 928
+        y: 840
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CoragemParado2(1)_31
+      rect:
+        serializedVersion: 2
         x: 484
         y: 824
         width: 4
@@ -570,7 +585,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_31
+      name: CoragemParado2(1)_32
       rect:
         serializedVersion: 2
         x: 0
@@ -584,7 +599,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_32
+      name: CoragemParado2(1)_33
       rect:
         serializedVersion: 2
         x: 484
@@ -598,7 +613,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_33
+      name: CoragemParado2(1)_34
       rect:
         serializedVersion: 2
         x: 0
@@ -612,7 +627,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_34
+      name: CoragemParado2(1)_35
       rect:
         serializedVersion: 2
         x: 484
@@ -626,7 +641,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_35
+      name: CoragemParado2(1)_36
       rect:
         serializedVersion: 2
         x: 103
@@ -640,7 +655,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: CoragemParado2(1)_36
+      name: CoragemParado2(1)_37
       rect:
         serializedVersion: 2
         x: 134

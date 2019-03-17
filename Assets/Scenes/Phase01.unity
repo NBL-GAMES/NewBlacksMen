@@ -655,6 +655,7 @@ GameObject:
   - component: {fileID: 890681994}
   - component: {fileID: 890681993}
   - component: {fileID: 890681999}
+  - component: {fileID: 890682000}
   m_Layer: 0
   m_Name: CoragemParado2(1)_0
   m_TagString: Untagged
@@ -669,7 +670,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 890681990}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.171, y: 0.317, z: 0}
+  m_LocalPosition: {x: 0.168, y: 0.317, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1111703035}
@@ -866,6 +867,23 @@ MonoBehaviour:
   - {fileID: 21300002, guid: b95206bb9f185574db550090d21f4b19, type: 3}
   - {fileID: 21300004, guid: b95206bb9f185574db550090d21f4b19, type: 3}
   amountlife: 4
+--- !u!95 &890682000
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 890681990}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 7be4ebe2e41954b4ab3d0e0cc40ef8d0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &936096149
 GameObject:
   m_ObjectHideFlags: 0
